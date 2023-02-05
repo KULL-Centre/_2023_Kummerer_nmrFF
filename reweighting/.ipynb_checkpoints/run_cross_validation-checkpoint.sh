@@ -1,9 +1,9 @@
 #!/bin/bash
 REX='../data/exp/ubiquitin/nmr_r1r2r3r4r5_rates_liao.npy'
 EEX='../data/exp/ubiquitin/nmr_r1r2r3r4r5_errors_liao.npy'
-RMD='../data/calc/ubiquitin/deltak_CgOpt/rmd.pkl'
+RMD='../data/calc/ubiquitin/deltak_CgCorr/rmd.pkl'
 
-OUT='../data/calc/ubiquitin/deltak_CgOpt/crossval/'
+OUT='../data/calc/ubiquitin/deltak_CgCorr/crossval/'
 mkdir ${OUT}
 mkdir ${OUT}/training
 mkdir ${OUT}/test

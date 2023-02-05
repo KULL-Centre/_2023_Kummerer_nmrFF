@@ -1,7 +1,7 @@
 #!/bin/bash
 # See the help entries for each script separately to learn about the flags.
 # This is just an example to see which options were used. Need to modify according to your local paths etc.
-# Here, the input to script is the name of the ff (e.g. 'CgOpt').
+# Here, the input to script is the name of the ff (e.g. 'CgCorr').
 
 NTRAJS=5
 SCRIPTS=scripts/
