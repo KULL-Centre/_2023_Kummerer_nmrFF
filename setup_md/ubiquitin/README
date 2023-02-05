@@ -1,0 +1,11 @@
+This is a system with modified methyl rotation barriers using "optimal" parameters for each methyl group based on a parameter scan with T4L.
+This is a very simple system, where only CgHg (VAL and ILE) are modified with a single deltak.
+The deltaks are set as follows:
+	CbHb	 0_0
+	CdHd	 0_0
+	Cg2Hg2	 4_5
+	Cd2Hd2	 0_0
+	CeHe	 0_0
+	Cg1Hg1	 4_5
+
+The parameters are set in moddihed_ffAMBER.py (in this location and nowhere else).
